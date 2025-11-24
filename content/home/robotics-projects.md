@@ -11,7 +11,7 @@ headless: true
 weight: 61
 
 title: Robotics
-subtitle: Projects
+subtitle: '<span style="font-size: 1.4em; font-weight: 600;">Projects</span>'
 
 content:
   # Page type to display. E.g. project.

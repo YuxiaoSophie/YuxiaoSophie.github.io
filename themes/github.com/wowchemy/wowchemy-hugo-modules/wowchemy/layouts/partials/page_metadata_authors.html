@@ -7,12 +7,23 @@
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
 
     {{- if gt $index 0 }}, {{ end -}}
+    {{- $star_admin_here := $.Params.star_admin_here | default false -}}
+    {{- $name := .LinkTitle -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
-      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+      {{/* Check if this is the admin/Yuxiao Li author and if we should star/bold here */}}
+      {{- if and $star_admin_here (eq $name "Yuxiao Li") -}}
+        {{- if .RelPermalink -}}
+          <a href="{{.RelPermalink}}"><strong>{{ $name }}*</strong></a>
+        {{- else -}}
+          <strong>{{ $name }}*</strong>
+        {{- end -}}
       {{- else -}}
-        {{ .LinkTitle }}
+        {{/* Default rendering for all other authors */}}
+        {{- if .RelPermalink -}}
+          <a href="{{.RelPermalink}}">{{ $name }}</a>
+        {{- else -}}
+          {{ $name }}
+        {{- end -}}
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}

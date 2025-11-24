@@ -1,6 +1,7 @@
 ---
 date: "2022-05-24T00:00:00Z"
 external_link: ""
+weight: 10
 image:
   caption: 
   focal_point: Smart

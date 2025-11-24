@@ -7,6 +7,8 @@
   {{ with .Params.external_link }}
   <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
   {{ end }}
-  {{ partial "page_links" (dict "page" . "is_list" 0) }}
+  {{ if ne .Params.show_links false }}
+    {{ partial "page_links_div.html" (dict "page" . "is_list" 0) }}
+  {{ end }}
 </div>
 {{ end }}

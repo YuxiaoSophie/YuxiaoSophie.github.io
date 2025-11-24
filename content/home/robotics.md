@@ -11,7 +11,7 @@ headless: true
 weight: 60
 
 title: Robotics
-subtitle: Research
+subtitle: '<span style="font-size: 1.4em; font-weight: 600;">Research</span>'
 
 content:
   # Page type to display. E.g. project.
