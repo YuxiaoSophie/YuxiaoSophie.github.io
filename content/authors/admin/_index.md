@@ -10,7 +10,7 @@ first_name: Yuxiao
 last_name: Li
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
