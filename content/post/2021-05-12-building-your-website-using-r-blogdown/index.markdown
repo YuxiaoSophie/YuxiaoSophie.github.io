@@ -1,6 +1,6 @@
 ---
 title: Building your website using R {blogdown}
-author: Shilaan Alzahawi
+author: Yuxiao Li
 date: '2021-05-12'
 draft: no
 slug: building-your-website-using-r-blogdown

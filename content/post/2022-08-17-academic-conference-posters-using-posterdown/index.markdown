@@ -1,6 +1,6 @@
 ---
 title: Academic conference posters using {posterdown}
-author: Shilaan Alzahawi
+author: Yuxiao Li
 date: '2022-08-17'
 slug: academic-conference-posters-using-posterdown
 categories: [rmarkdown]

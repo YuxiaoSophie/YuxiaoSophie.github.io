@@ -1,6 +1,6 @@
 ---
 title: Visualizing data with raincloud plots
-author: Shilaan Alzahawi
+author: Yuxiao Li
 date: '2021-07-19'
 slug: visualizing-data-with-raincloud-plots
 categories: [rmarkdown, visualization]

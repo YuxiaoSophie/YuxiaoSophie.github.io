@@ -1,5 +1,5 @@
 ---
-title: "Shilaan Alzahawi"
+title: "Yuxiao Li"
 education:
   courses:
   - course: PhD in Business Administration (Organizational Behavior)
