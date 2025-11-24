@@ -20,18 +20,13 @@ twitter: 'https://twitter.com/shilaan01'
 
 # Contact (edit or remove options as required)
 
-email: shilaan@stanford.edu
+email: yuxiaoli@uchicago.edu
 address:
-  city: Palo Alto
-  region: CA
-  postcode: '94304'
+  city: Chicago
+  region: IL
+  postcode: '60637'
   country: United States
   country_code: US
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Find me on Twitter
-    link: 'https://twitter.com/shilaan01'
 
 # Site header
 

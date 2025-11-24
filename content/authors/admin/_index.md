@@ -32,9 +32,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link:
-superuser: yes
-bio: My research interests center on robotics.
-greeting: li::yuxiao()
+# superuser: yes
+# bio: My research interests center on robotics.
+# greeting: li::yuxiao()
 ---
 
 Hello! My name is Yuxiao Li. I am a senior undergraduate at the University of Chicago, pursuing a B.S. in Computer Science and a B.A. in Physics. I have worked as a research assistant in the [Terradynamics Lab at Johns Hopkins University](https://li.me.jhu.edu/), advised by Prof. Chen Li; the [Actuated Experience Lab](https://www.axlab.cs.uchicago.edu), advised by Prof. Ken Nakagaki; and the [Human-Robot Interaction Lab](https://hri.cs.uchicago.edu), advised by Prof. Sarah Sebo. In summer 2025, I was also a research intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/), advised by Senior Scientist Yu-Chiu Chao.
