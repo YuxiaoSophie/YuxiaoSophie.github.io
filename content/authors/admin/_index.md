@@ -29,6 +29,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link:
+# - icon: linkedin
+#   icon_pack: fab
+#   link:
 # - icon: cv
 #   icon_pack: ai
 #   link:
@@ -44,7 +47,7 @@ My research interests center on robotics, particularly in learning and interacti
 In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. I also have a <span id="dog-toggle" style="text-decoration:underline; cursor:pointer;" onclick="var g=document.getElementById('dog-gallery'); g.style.display = (g.style.display === 'none' || g.style.display === '') ? 'flex' : 'none';">cute dog</span>!
 
 <div id="dog-gallery" style="display:none; gap:8px; margin-top:10px;">
-  <img src="/img/dog/mars1.JPG" alt="dog1" style="width:30%; border-radius:8px;">
+  <img src="/img/dog/mars0.jpg" alt="dog1" style="width:30%; border-radius:8px;">
   <img src="/img/dog/mars2.jpg" alt="dog2" style="width:30%; border-radius:8px;">
   <img src="/img/dog/mars3.JPG" alt="dog3" style="width:30%; border-radius:8px;">
 </div>
