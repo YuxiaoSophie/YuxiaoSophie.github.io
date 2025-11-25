@@ -11,7 +11,7 @@ links:
 - icon: photo-video
   icon_pack: fa
   name: Slides
-  url: https://many-analysts.netlify.app/#1
+  url: Summary.pptx
 # - icon: scroll
 #   icon_pack: fa
 #   name: Paper
@@ -19,7 +19,7 @@ links:
 - icon: video
   icon_pack: fa
   name: Video
-  url: https://www.youtube.com/watch?v=v9mNKIILt_s
+  url: video.mov
 # - icon: clipboard
 #   icon_pack: fa
 #   name: Poster
@@ -45,6 +45,11 @@ authors:
 star_admin_here: false
 click_title: true
 ---
+
+<video controls style="width:100%; max-width: 800px; display:block; margin: 0 auto;">
+  <source src="video.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 <br>
 

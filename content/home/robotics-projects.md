@@ -15,7 +15,7 @@ subtitle: '<span style="font-size: 1.4em; font-weight: 600;">Projects</span>'
 
 content:
   # Page type to display. E.g. project.
-  page_type: robotics
+  page_type: projects
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0

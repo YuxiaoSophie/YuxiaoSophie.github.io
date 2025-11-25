@@ -41,4 +41,4 @@ Hello! My name is Yuxiao Li. I am a senior undergraduate at the University of Ch
 
 My research interests center on robotics, particularly in learning and interaction. I am especially drawn to how robotic systems learn from and respond to their environments, and how their design can be optimized to enhance coordination and interaction with people, advancing more effective robot behavior within human environments.
 
-In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. 
+In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. I also have a cute dog!
