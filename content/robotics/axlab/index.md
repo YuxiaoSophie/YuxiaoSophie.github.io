@@ -18,7 +18,11 @@ links:
   url: https://www.youtube.com/watch?v=v9mNKIILt_s
 - icon: clipboard
   icon_pack: fa
-  name: Poster
+  name: Poster (UIST)
+  url: poster-uist.pdf
+- icon: clipboard
+  icon_pack: fa
+  name: Poster (UChicago)
   url: poster.pdf
 # - icon: photo-video
 #   icon_pack: fa
