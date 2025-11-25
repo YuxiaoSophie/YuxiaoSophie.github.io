@@ -43,4 +43,15 @@ show_links: false
 authors: 
   - admin
 star_admin_here: false
+click_title: true
 ---
+
+<br>
+
+I contributed to a project focused on cockroach-inspired robot locomotion across complex terrain, working to simulate and optimize the robot's traversal behavior. Specifically, I took the lead in independently developing physics-based simulations with careful validation of contact dynamics. 
+
+Drawing from prior lab studies of how cockroaches and robots traverse beam obstacles, I enhanced the simulation model by incorporating dynamic roll and pitch degrees of freedom and introducing stochastic vertical oscillations under varying frequencies and beam stiffnesses. This allowed me to examine how posture changes, especially transitions from pitch to roll, improve traversal performance. To reduce the simulation-reality gap, I iteratively refine the model through quantitative comparison with empirical measurements, aligning transition probabilities and traversal and transition times from both cockroach and robot experiments. 
+
+In collaboration with a master's student, I further helped apply reinforcement learning to the simulation framework I developed, aiming to support learning-based control strategies for energy-efficient traversal. 
+
+{{< page_links >}}

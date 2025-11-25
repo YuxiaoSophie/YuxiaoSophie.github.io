@@ -26,4 +26,5 @@ show_links: false
 authors: 
   - admin
 star_admin_here: false
+click_title: false
 ---

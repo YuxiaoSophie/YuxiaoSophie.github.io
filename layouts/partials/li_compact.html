@@ -28,11 +28,19 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{/* NEW: control whether title is clickable.
+     Default: true unless click_title is explicitly set to false in front matter. */}}
+{{ $click_title := cond (isset $item.Params "click_title") $item.Params.click_title true }}
+
 <div class="media stream-item">
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ if $click_title }}
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ else }}
+        {{ $item.Title }}
+      {{ end }}
     </div>
 
     {{ with $summary }}

@@ -47,6 +47,7 @@ authors:
   - "Miyu Fukuoka"
   - "Ken Nakagaki (*Equal Contribution)"
 star_admin_here: true   
+click_title: true
 ---
 
 {{< youtube v9mNKIILt_s >}}
@@ -58,3 +59,5 @@ My contribution included the development of an innovative spatially actuated tan
 Recognizing the need for interactivity and autonomy, I extended the system by developing a control framework supporting six degrees of freedom (6-DoF) manipulation, incorporating techniques such as human body mapping and gesture-based tracking. These robots were then applied to various scenarios, including tangible interaction and assistive room reconfiguration, demonstrating their adaptability across different tasks. 
 
 During testing, operating multiple robots in human environments often led to collisions. To address this, I further integrated obstacle-avoidance algorithms, enabling the robots to safely navigate environments with static obstacles such as chairs and tables, as well as dynamic obstacles like people and other robots. 
+
+{{< page_links >}}
