@@ -34,7 +34,7 @@ links:
 #   url: https://twitter.com/shilaan01/status/1413946789699325953
 title: "Cockroach Robot Locomotion Over Complex Obstacles"
 summary: > 
-    Constructed a physics-based cockroach-inspired robot model to investigate locomotion and obstacle traversal, focusing on the mechanical principles underlying pitch-to-roll transitions.
+    Constructed a physics-based cockroach-inspired robot simulation in MuJoCo to investigate locomotion and obstacle traversal, focusing on pitch-to-roll transitions and evaluating strategies across different contact conditions.
     
 reading_time: false
 commentable: false

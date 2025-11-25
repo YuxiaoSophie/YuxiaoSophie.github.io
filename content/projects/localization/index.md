@@ -34,7 +34,7 @@ links:
 #   url: https://twitter.com/shilaan01/status/1413946789699325953
 title: "Robot Particle Filter Localization"
 summary: > 
-    Developed and implemented a Monte Carlo Localization algorithm with ray casting and probabilistic resampling to enable real-time pose estimation of a TurtleBot.
+    Designed and implemented a Monte Carlo Localization algorithm with ray casting and probabilistic resampling to enable real-time pose estimation of a TurtleBot.
     
 reading_time: false
 commentable: false
@@ -53,6 +53,6 @@ click_title: true
 
 <br>
 
-I contributed to design a Monte Carlo Localization algorithm to enable a TurtleBot to estimate its pose in a known occupancy grid map using noisy odometry and laser scan data. I also implemented measurement models using ray casting and probabilistic resampling, achieving robust real-time localization in ROS2 and RViz.
+I contributed to design a Monte Carlo Localization algorithm to enable a TurtleBot to estimate its pose in a known occupancy grid map using noisy odometry and laser scan data. To support this, I implemented measurement models using ray casting and probabilistic resampling, achieving robust real-time localization in ROS2 and RViz.
 
 {{< page_links >}}

@@ -17,7 +17,7 @@ image:
 #   url: https://twitter.com/shilaan01/status/1413946789699325953
 title: "Misty Robotic Tutor"
 summary: > 
-    Co-developed a Misty robotic tutor for elementary-aged children, designing two distinct behavioral modes: one displaying programmed emotions and the other remaining neutral and emotionless. 
+    Developed a Misty robotic tutor for elementary-aged children, designing two distinct behavioral modes: one displaying programmed emotions and the other remaining neutral and emotionless.
     
 reading_time: false
 commentable: false

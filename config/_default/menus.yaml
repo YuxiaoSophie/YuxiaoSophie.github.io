@@ -7,14 +7,14 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Robotics
+  - name: Robotics (Research & Projects)
     url: '#robotics'
     weight: 20
   - name: Side Projects
     url: '#side'
     weight: 30
   - name: Art
-    url: 
+    url: '/art/'
     weight: 40
 #  - name: File Drawer
 #    url: filedrawer/

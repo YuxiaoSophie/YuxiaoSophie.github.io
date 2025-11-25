@@ -41,4 +41,10 @@ Hello! My name is Yuxiao Li. I am a senior undergraduate at the University of Ch
 
 My research interests center on robotics, particularly in learning and interaction. I am especially drawn to how robotic systems learn from and respond to their environments, and how their design can be optimized to enhance coordination and interaction with people, advancing more effective robot behavior within human environments.
 
-In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. I also have a cute dog!
+In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. I also have a <span id="dog-toggle" style="text-decoration:underline; cursor:pointer;" onclick="var g=document.getElementById('dog-gallery'); g.style.display = (g.style.display === 'none' || g.style.display === '') ? 'flex' : 'none';">cute dog</span>!
+
+<div id="dog-gallery" style="display:none; gap:8px; margin-top:10px;">
+  <img src="/img/dog/mars1.jpg" alt="dog1" style="width:30%; border-radius:8px;">
+  <img src="/img/dog/mars2.jpg" alt="dog2" style="width:30%; border-radius:8px;">
+  <img src="/img/dog/mars3.jpg" alt="dog3" style="width:30%; border-radius:8px;">
+</div>

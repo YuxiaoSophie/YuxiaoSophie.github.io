@@ -34,9 +34,10 @@ links:
 #   url: https://twitter.com/shilaan01/status/1413946789699325953
 title: "Buoyancé: Reeling Helium-Inflated Balloons with Mobile Robots on the Ground for Mid-Air Tangible Display, Interaction, and Assembly"
 summary: > 
-    Designed and developed **Buoyancé**, a spatially actuated system that integrates mobile reeling robots with helium-inflated balloons to enable mid-air tangible interaction, spatial visualization, and constructive assembly.  
+    Designed and implemented **Buoyancé**, an innovative spatially actuated system that integrates wheeled robots with helium-inflated balloons via reeling mechanisms, enabling mid-air tangible interaction, spatial visualization, and constructive assembly. 
 
     This work culminated in a full paper **accepted to UIST 2025**, along with a poster presented at the 2025 Undergraduate Research Symposium at UChicago.
+
 reading_time: false
 commentable: false
 show_related: false

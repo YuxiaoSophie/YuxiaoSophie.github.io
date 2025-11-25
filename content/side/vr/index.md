@@ -34,7 +34,7 @@ links:
 #   url: https://twitter.com/shilaan01/status/1413946789699325953
 title: "VR Interface"
 summary: > 
-    Developed a VR underwater mission interface in Unity3D for Meta Quest 2, featuring real-time monitoring, navigation, gesture-based control, and etc.
+    Developed a VR underwater mission interface in Unity3D for Meta Quest 2, featuring real-time monitoring, gesture-based control, navigation, and etc.
 reading_time: false
 commentable: false
 show_related: false
