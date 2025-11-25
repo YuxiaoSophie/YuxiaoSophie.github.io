@@ -15,7 +15,7 @@ links:
 - icon: video
   icon_pack: fa
   name: Video
-  url: video_1.5x.mp4
+  url: video_small.mp4
 # - icon: clipboard
 #   icon_pack: fa
 #   name: Poster
@@ -46,7 +46,7 @@ click_title: true
 ---
 
 <video controls style="width:100%; max-width: 800px; display:block; margin: 0 auto;">
-  <source src="video_1.5x.mp4" type="video/mp4">
+  <source src="video_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
