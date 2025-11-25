@@ -12,14 +12,18 @@ links:
   icon_pack: fa
   name: Paper
   url: https://dl.acm.org/doi/10.1145/3746059.3747768
-- icon: clipboard
+- icon: video
   icon_pack: fa
   name: Video
   url: https://www.youtube.com/watch?v=v9mNKIILt_s
-- icon: images
+- icon: clipboard
   icon_pack: fa
   name: Poster
-  url: 
+  url: poster.pdf
+# - icon: photo-video
+#   icon_pack: fa
+#   name: Slides
+#   url: https://many-analysts.netlify.app/#1
 # - icon: github
 #   icon_pack: fab
 #   name: Workshop materials
@@ -42,7 +46,7 @@ authors:
   - admin
   - "Miyu Fukuoka"
   - "Ken Nakagaki (*Equal Contribution)"
-star_admin_here: true
+star_admin_here: true   
 ---
 
 {{< youtube v9mNKIILt_s >}}
@@ -54,21 +58,3 @@ My contribution included the development of an innovative spatially actuated tan
 Recognizing the need for interactivity and autonomy, I extended the system by developing a control framework supporting six degrees of freedom (6-DoF) manipulation, incorporating techniques such as human body mapping and gesture-based tracking. These robots were then applied to various scenarios, including tangible interaction and assistive room reconfiguration, demonstrating their adaptability across different tasks. 
 
 During testing, operating multiple robots in human environments often led to collisions. To address this, I further integrated obstacle-avoidance algorithms, enabling the robots to safely navigate environments with static obstacles such as chairs and tables, as well as dynamic obstacles like people and other robots. 
-
-<!-- #### Writing executable and fully reproducible (APA) manuscripts in R
-
-
-### Workshop presented at  
-<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> University of Amsterdam Lecture Series on Good Research Practices  
-<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Center for Open and Reproducible Science Fall Lecture Series  
-<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  International Association for Conflict Management Annual Conference  
-<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Data Science for Social Good Program (DSSG)  
-<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  Stanford Center for Open and Reproducible Science launch event
-
-
-### Available recordings  
-<i class="fa fa-camera" aria-hidden="true" style="color:#035AA6"></i> [**Stanford Center for Open and Reproducible Science**](https://www.youtube.com/watch?v=LWcUjltWUNk)  
-<i class="fa fa-camera-retro" aria-hidden="true" style="color:#035AA6"></i>
-[**International Association for Conflict Management**](https://www.youtube.com/watch?v=ZmpUrdNrXiU)   -->
-
-
