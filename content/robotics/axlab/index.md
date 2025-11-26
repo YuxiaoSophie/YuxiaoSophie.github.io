@@ -40,7 +40,7 @@ title: "Buoyancé: Reeling Helium-Inflated Balloons with Mobile Robots on the Gr
 summary: > 
     Designed and implemented **Buoyancé**, an innovative spatially actuated system that integrates wheeled robots with helium-inflated balloons via reeling mechanisms, enabling mid-air tangible interaction, spatial visualization, and constructive assembly. 
 
-    This work culminated in a full paper accepted to **UIST 2025**, along with a poster presented at **the 2025 Undergraduate Research Symposium** at UChicago.
+    This work culminated in a full paper accepted to **ACM UIST 2025**, along with a poster presented at **the 2025 Undergraduate Research Symposium** at UChicago.
 
 reading_time: false
 commentable: false
