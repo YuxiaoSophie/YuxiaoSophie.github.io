@@ -49,5 +49,5 @@ In my free time, I enjoy playing chess (especially Go), practicing traditional C
 <div id="dog-gallery" style="display:none; gap:8px; margin-top:10px;">
   <img src="/img/dog/mars0.jpg" alt="dog1" style="width:30%; border-radius:8px;">
   <img src="/img/dog/mars2.jpg" alt="dog2" style="width:30%; border-radius:8px;">
-  <img src="/img/dog/mars3.JPG" alt="dog3" style="width:30%; border-radius:8px;">
+  <img src="/img/dog/mars3.jpg" alt="dog3" style="width:30%; border-radius:8px;">
 </div>
