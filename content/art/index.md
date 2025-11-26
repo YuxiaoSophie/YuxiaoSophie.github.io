@@ -11,4 +11,5 @@ type: page
   <img src="Art_5.png" alt="Art 5">
   <img src="Art_6.png" alt="Art 6">
   <img src="Art_7.png" alt="Art 7">
+  <img src="Art_8.png" alt="Art 8">
 </div>
