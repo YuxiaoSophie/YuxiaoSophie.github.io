@@ -52,7 +52,7 @@ click_title: true
 
 <br>
 
-I implemented a reinforcement learning system that enabled a TurtleBot to learn optimal object placement strategies through simulated rewards and policy training. After training a Q-matrix to maximize long-term rewards, I integrated computer vision with object detection and robotic arm control, allowing the robot to autonomously perceive its environment and place colored objects at designated AR tags based on the learned policy. 
+I implemented a reinforcement learning system that enabled a TurtleBot to learn optimal object placement strategies through simulated rewards and policy training. After training a Q-matrix to maximize long-term rewards, I integrated object detection with inverse-kinematics arm control, allowing the robot to autonomously perceive its environment and place colored objects at designated AR tags based on the learned policy. 
 
 {{< figure src="gesture.jpg" caption="" >}}
 
