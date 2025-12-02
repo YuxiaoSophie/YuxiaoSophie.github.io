@@ -42,7 +42,7 @@ social:
 
 Hello! My name is Yuxiao Li. I am a senior undergraduate at the University of Chicago, pursuing a B.S. in Computer Science and a B.A. in Physics. I have worked as a research assistant in the [Actuated Experience Lab](https://www.axlab.cs.uchicago.edu), advised by Prof. Ken Nakagaki; the [Terradynamics Lab at Johns Hopkins University](https://li.me.jhu.edu/), advised by Prof. Chen Li; and the [Human-Robot Interaction Lab](https://hri.cs.uchicago.edu), advised by Prof. Sarah Sebo. In summer 2025, I was also a research intern at [Fermi National Accelerator Laboratory](https://www.fnal.gov/), advised by Senior Scientist Yu-Chiu Chao.
 
-My research interests center on robotics, particularly in learning and interaction. I am especially drawn to how robotic systems learn from and respond to their environments, and how their design can be optimized to enhance coordination and interaction with people, advancing more effective robot behavior within human environments.
+My research interests center on robotics, particularly in learning and interaction. I am especially drawn to how robotic systems learn from and respond to their environments, and how their behavior can be optimized to enhance coordination and interaction with people, advancing more effective robot behavior within human environments.
 
 In my free time, I enjoy playing chess (especially Go), practicing traditional Chinese ink painting and calligraphy, and playing tennis. I also have a <span id="dog-toggle" style="text-decoration:underline; cursor:pointer;" onclick="var g=document.getElementById('dog-gallery'); g.style.display = (g.style.display === 'none' || g.style.display === '') ? 'flex' : 'none';">cute dog</span>!
 

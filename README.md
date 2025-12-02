@@ -7,3 +7,5 @@ Personal website of Yuxiao Li: https://yuxiaosophie.github.io
 - Main content: content (home folder for connection)
 - Inner logic: layouts/partials + themes/github.com/wowchemy/layouts/partials
 - Static: static
+
+Run "hugo server" in terminal for testing.
